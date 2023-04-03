@@ -1,6 +1,6 @@
 # System Development for Prediction of Static Analysis Metrics of Source Code
 
-This is the code repository for the diploma thesis that was conducted in the department of Electrical and Computer Engineering of Aristotle University of Thessaloniki, in the academic year 2022-2023.
+This is the code repository for the diploma thesis completed in the department of Electrical and Computer Engineering at Aristotle University of Thessaloniki during the academic year 2022-2023.
 
 ## **Abstract**
 
