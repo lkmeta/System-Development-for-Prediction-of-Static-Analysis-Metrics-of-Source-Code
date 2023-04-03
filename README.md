@@ -68,5 +68,5 @@ S5: This file contains the following:
 **Note:** The files s1-s4 are responsible for generating the datasets that are saved in the "gen_data" folder. This means you don't have to run these files if you only want to execute the code. To run each task from the s5 analysis, simply uncomment the appropriate section of the file and then execute the code.
 
 ### Dataset
-The dataset is available online [here](https://zenodo.org/record/5539789#.ZCslvXZBwuU). 
+The datasets are available online [here](https://zenodo.org/record/5539789#.ZCslvXZBwuU). 
 
